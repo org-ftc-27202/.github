@@ -5,8 +5,8 @@ We are Terminal Velocity, a Minnesota FTC team started in 2024.
 If you are intersted in any of our code, have any questions, or want to reach out, contact us below.
 
 ### 🔬 What We are Developing
-- [📷 Machine Vision](https://github.com/org-ftc-27202/TARS/tree/aprilTags)
-- [🛞 Pedro Pathing](https://github.com/org-ftc-27202/2025DECODEFtcRobotController)
+- [📷 Machine Vision](https://github.com/org-ftc-27202/decode/tree/tars)
+- [🛞 Pedro Pathing](https://github.com/org-ftc-27202/decode/tree/common)
 
 ### 
 
