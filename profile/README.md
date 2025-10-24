@@ -7,13 +7,12 @@ If you are intersted in any of our code, have any questions, or want to reach ou
 ### 🔬 What We are Developing
 - [📷 Machine Vision](https://github.com/org-ftc-27202/decode/tree/tars)
 - [🛞 Pedro Pathing](https://github.com/org-ftc-27202/decode/tree/common)
-
-### 
+- [💫 Stellar Structure](https://github.com/org-ftc-27202/decode/tree/tars/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/interstellar)
 
 ### 📬 How to Contact Us
 You can reach us by:
 - Emailing team27202@gmail.com
-- Discord messaging `bountyhunterxd` (lead machine vison and sensor programmer)
-- Discord messaging `arugula55493_25141` (lead auto and odometry programmer)
+- Discord messaging `bountyhunterxd` (lead machine vison, sensor, command-based structure programmer)
+- Discord messaging `arugula55493_25141` (lead auto, odometry, pathing, external library programmer)
 
 <sub>[See Our Stats from 2024](https://ftcscout.org/teams/27202)</sub>
